@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 600px;
+
+}
+.organiser{
+    display:flex;
+    align-items:center;
+    
+}
+#clear{
+    margin-left: 10px;
+    
+    width:400px;
+    height: 100px;
+
+}
+#colourwheel{
+    margin-left: 10px;
+    
+    width:400px;
+    height: 100px;
+
+}
